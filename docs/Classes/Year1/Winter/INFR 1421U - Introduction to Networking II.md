@@ -3,4 +3,4 @@
 - **Exam:** Theory + practical
 - **Prerequisites:** [[INFR 1411U - Introduction to Networking I]]
 
-# Study Resources
+## Study Resources

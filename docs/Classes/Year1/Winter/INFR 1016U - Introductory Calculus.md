@@ -3,4 +3,4 @@
 - **Exam:** Theory
 - **Prerequisites:**
 
-# Study Resources
+## Study Resources

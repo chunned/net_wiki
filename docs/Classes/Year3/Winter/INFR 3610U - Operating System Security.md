@@ -3,4 +3,4 @@
 - **Exam:** N/A
 - **Prerequisites:** [[INFR 2600U - Introduction to Computer Security]]
 
-# Study Resources
+## Study Resources

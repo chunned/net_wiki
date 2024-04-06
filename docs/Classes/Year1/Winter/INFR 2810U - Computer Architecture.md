@@ -3,4 +3,4 @@
 - **Exam:** Theory
 - **Prerequisites:** [[INFR 1101U - Introduction to Programming for IT]]
 
-# Study Resources
+## Study Resources

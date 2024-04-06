@@ -2,13 +2,13 @@
 - **Lab/Tutorial:** Both
 - **Exam:** Theory + practical
 - **Prerequisites:** [[INFR 2411U - Advanced Networking I]]
-# Study Resources
-## Network Architecture and Switching Fundamentals
+## Study Resources
+### Network Architecture and Switching Fundamentals
 - [Cisco Express Forwarding](https://www.youtube.com/watch?v=dk2YtOoT0w4)
 - [Connecting Cisco StackWise on the 9300](https://www.youtube.com/watch?v=5bimzoJJkK8)
 - [ Access, Distribution, and Core Layers Explained](https://www.computernetworkingnotes.com/ccna-study-guide/access-distribution-and-core-layers-explained.html)
 
-## Spanning Tree
+### Spanning Tree
 - [STP Deep Dive](https://www.youtube.com/watch?v=XoLPGH4awKc)
 - [STP Explained](https://www.youtube.com/watch?v=japdEY1UKe4)
 - [Introduction to Spanning-Tree](https://www.youtube.com/watch?v=wOsbtA4Hx04)
@@ -24,14 +24,14 @@
 - [MST Explained & Configuration](https://www.youtube.com/watch?v=vsU7eoEBkd4)
 - [Configure MST on Cisco Switches](https://www.youtube.com/watch?v=ATBwqCPiQNM)
 
-## VLANs, IP Services, and Security
+### VLANs, IP Services, and Security
 - [GLBP](https://networklessons.com/cisco/ccie-routing-switching/glbp-gateway-load-balancing-protocol)
 - [GLBP Operation](https://www.youtube.com/watch?v=ujApoqozzsE)
 - [Understanding and Configuring GLBP](https://www.youtube.com/watch?v=JflJSgXD09o)
 
-## VPNs
+### VPNs
 - [What is MPLS?](https://www.youtube.com/watch?v=E5Ud1m9h0yc)
 - [Phase 2 and 3 DMVPN](https://www.youtube.com/watch?v=f-_U3xdUj4A)
 
-## QoS
+### QoS
 - [TCP Slow Start & Global Synchronization](https://www.youtube.com/watch?v=64yrWsQFIek)
