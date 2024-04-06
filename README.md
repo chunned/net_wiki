@@ -5,3 +5,6 @@ Please note that some information may eventually become outdated. For instance, 
 
 ## Academic Integrity Policy
 All students are welcome to contribute. However, please note that you may not add any resources that violate the school's academic integrity guidelines - for instance, lecture slides, projects/assignments, quizzes/exams, or copyrighted textbooks. If you attempt to add material to the repository that violates this policy, you will be banned from contributing and potentially reported to the school. If you are unsure whether something violates the guidelines, please contact a maintainer directly.
+
+## Contributing
+Start by cloning the repository: `git clone https://github.com/NetsocOT/netwiki`
