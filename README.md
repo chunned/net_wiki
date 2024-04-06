@@ -9,4 +9,6 @@ All students are welcome to contribute. However, please note that you may not ad
 ## Contributing
 Start by [forking the repository](https://github.com/NetsocOTU/netwiki/fork), then clone your fork. The basic process is to make your changes locally -> push them to your fork -> open a pull request to this repository and wait for it to be merged. 
 
+You can also open an issue to suggest something if you can't make the changes yourself.
+
 Everything is built from Markdown files, so you can just edit files in your preferred text editor if you like. However, the intended way to work with the repository is with [Obsidian](https://obsidian.md). Simply open the repository folder as an Obsidian vault and edit the files in `docs/`.
