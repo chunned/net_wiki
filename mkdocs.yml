@@ -2,8 +2,17 @@ site_name: NetWiki
 
 theme:
     name: 'material'
-    palette:
 
+    features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.path
+    - toc.integrate
+    - navigation.indexes
+    
+    palette:
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
