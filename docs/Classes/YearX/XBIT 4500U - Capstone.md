@@ -1,4 +1,4 @@
-- **Textbook:** 
-- **Lab/Tutorial:** 
-- **Exam:** 
+- **Textbook:** N/A
+- **Lab/Tutorial:** N/A
+- **Exam:** N/A
 - **Prerequisites:**
