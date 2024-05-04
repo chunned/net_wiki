@@ -4,3 +4,10 @@
 - **Prerequisites:** N/A
 
 ## Study Resources
+- [Jeremy's IT Lab](https://courses.jeremysitlab.com/p/ccna)
+	- Full free CCNA course with videos, flash cards, labs
+	- [YouTube](https://www.youtube.com/@JeremysITLab)
+- [Practical Networking - YouTube](https://www.youtube.com/@PracticalNetworking/playlists)
+	- Lots of great educational videos. Particularly useful is the [Subnetting Mastery](https://www.youtube.com/playlist?list=PLIFyRwBY_4bQUE4IB5c4VPRyDoLgOdExE) playlist
+- [subnetting.org](https://subnetting.org)
+	- Randomly generated subnetting practice problems

@@ -1,5 +1,5 @@
 !!! note "Info"
-	Hands-on security education platforms.
+	Hands-on security education platforms. May not be directly relevant to a particular class.
 ## General
 - [TryHackMe](https://cryptohack.org/) - CTFs and educational rooms with machines to hack into.
 - [HackTheBox](https://www.hackthebox.com/) - Similar to TryHackMe but more advanced.
