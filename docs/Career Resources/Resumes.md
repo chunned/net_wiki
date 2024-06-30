@@ -1,0 +1,4 @@
+- [15 Free ATS Resume Templates](https://www.jobscan.co/resume-templates/ats-templates#showcase_cta1)
+	- Applicant Tracking Systems (ATS) are used by organizations to basically scan applicant resumes. It's a way that organizations automate the process of filtering out bad resumes. However, ATSes prefer certain resume layouts/formats, so it's important that you use an ATS compatible template so you don't slip through the cracks.
+- [RxResume](https://rxresu.me/)
+	- Free, open-source, self-hostable resume builder
