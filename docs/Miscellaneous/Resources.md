@@ -19,17 +19,26 @@
 - [SkullSecurity](https://blog.skullsecurity.org/)
 - [Null Byte](https://null-byte.wonderhowto.com/)
 - [FuzzySecurity](http://www.fuzzysecurity.com/) - tutorials, scripts, exploits, and a list of resources
+### Interesting Posts
+- [MD5 Collision Demo](https://www.mscs.dal.ca/~selinger/md5collision/)
+- [Hardware and IoT Hacking Resources](https://medium.com/@DigitalAndrew/hardware-and-iot-hacking-resources-6b925632e2c6)
 ### CTF Writeups
 - [ctf-writeups](https://github.com/hyperreality/ctf-writeups)
 - [best-web-ctf-writeups](https://github.com/hyperreality/best-web-ctf-writeups)
-- 
 ## Courses
 - [freeCodeCamp - Python for PenTesting](https://www.freecodecamp.org/learn/information-security/python-for-penetration-testing/)
-- [Collection of university courses](https://github.com/prakhar1989/awesome-courses#security)
+- [Collection of university courses](https://github.com/prakhar1989/awesome-courses#security
 - [Pentester Academy](https://www.pentesteracademy.com/topics)
+- [Invoke-RE](https://training.invokere.com/)
+- [IoT and Hardware Hacking](https://academy.tcm-sec.com/p/beginner-s-guide-to-iot-and-hardware-hacking)
  
 ## Projects
 - [Build your own network stack](https://github.com/danistefanovic/build-your-own-x#build-your-own-network-stack)
+- [Blueteam Homelab](https://github.com/aboutsecurity/blueteam_homelabs)
+- [How to establish a honeypot on your network](https://www.comparitech.com/net-admin/how-to-establish-a-honeypot-on-your-network/)
+- [Creating a honeypot](https://medium.com/@ecojumper30/creating-a-honeypot-f2b4cc33385a)
+- [SIEM Home Lab with ELK](https://unicornsec.com/home/siem-home-lab-series-part-1)
+- [100 Redteam Projects](https://github.com/kurogai/100-redteam-projects)
 
 ## Books
 - [Reverse Engineering for Beginners](https://beginners.re/) \[PDF]
@@ -38,7 +47,7 @@
 - [An Introduction to Computer Networks](https://intronetworks.cs.luc.edu/) \[HTML, PDF, epub]
 - [Computer Networking: Principles, Protocols, and Practice](https://www.computer-networking.info/1st/html/index.html) \[HTML]
 - [Computer Networks: A Systems Approach](https://book.systemsapproach.org/) \[HTML]
-
+- [The Crypto Dictionary](https://www.crypto-dictionary.com/thebook/)\[PDF, epub]
 ## Subreddits
 Note: not all security related, but general interest IT-related subreddits that I find helpful.
 

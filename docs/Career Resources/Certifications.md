@@ -17,3 +17,9 @@ First, you need to complete the two following AWS Skill Builder courses
 - [Exam Prep Standard Course: AWS Certified Cloud Practitioner (CLF-C02 - English)](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/16434/exam-prep-standard-course-aws-certified-cloud-practitioner-clf-c02-english "https://explore.skillbuilder.aws/learn/course/internal/view/elearning/16434/exam-prep-standard-course-aws-certified-cloud-practitioner-clf-c02-english")
 
 After you have completed these courses, you need to join the [AWS Emerging Talent Community](https://aws-emergingtalent.influitive.com/users/sign_in). Once signed up, you will have access to activities that you can complete for a small amount of points. You need 3500 points to redeem the voucher, but there are only so many activities you can complete each week, which will typically net you 20-100 points. 
+
+
+## Miscellaneous
+### Security
+- [Blue Team Level 1](https://www.securityblue.team/why-btl1)
+- 
