@@ -19,7 +19,10 @@
 - [SkullSecurity](https://blog.skullsecurity.org/)
 - [Null Byte](https://null-byte.wonderhowto.com/)
 - [FuzzySecurity](http://www.fuzzysecurity.com/) - tutorials, scripts, exploits, and a list of resources
-
+### CTF Writeups
+- [ctf-writeups](https://github.com/hyperreality/ctf-writeups)
+- [best-web-ctf-writeups](https://github.com/hyperreality/best-web-ctf-writeups)
+- 
 ## Courses
 - [freeCodeCamp - Python for PenTesting](https://www.freecodecamp.org/learn/information-security/python-for-penetration-testing/)
 - [Collection of university courses](https://github.com/prakhar1989/awesome-courses#security)
