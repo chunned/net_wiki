@@ -3,6 +3,11 @@
 - **Exam:** Theory + practical
 - **Prerequisites:** [[INFR 1421U - Introduction to Networking II]]
 ## Study Resources
+- [Enterprise Lab (YouTube playlist)](https://www.youtube.com/playlist?app=desktop&list=PLxyr0C_3Ton1OiE5mjzuXlaLvT9ZlRhSi)
+- [CCIE Enterprise Infrastructure Foundation](https://www.ciscopress.com/store/ccie-enterprise-infrastructure-foundation-9780137373987?link=text)
+	- Full of challenging labs
+- [PCAP Analysis](https://dfirmadness.com/case-001-pcap-analysis/)
+
 ### IP Routing Essentials
 - [Subnetting cheat sheet](https://nsrc.org/workshops/2009/summer/presentations/day3/subnetting.pdf)
 - [How does NAT conserve IPv4 addresses?](https://www.youtube.com/watch?v=BgtORKB0lls)
